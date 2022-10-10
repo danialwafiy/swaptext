@@ -1,0 +1,24 @@
+{
+  "name": "@danialwafiy/swaptext",
+  "version": "1.0.0",
+  "description": "Swap page text to and from.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danialwafiy/swaptext.git"
+  },
+  "keywords": [
+    "['swap'",
+    "'change",
+    "text']"
+  ],
+  "author": "danialwafiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danialwafiy/swaptext/issues"
+  },
+  "homepage": "https://github.com/danialwafiy/swaptext#readme"
+}
